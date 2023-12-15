@@ -1,3 +1,5 @@
 Esta es mi historia aprendiendo Git y GitHub, y son mis primeras bases de conocimiento
 Ahora he visto video y me ha parecido muy interesante
 Ya he visto mas comandos 
+
+He aprendido nuevos comandos y uso de html y css
